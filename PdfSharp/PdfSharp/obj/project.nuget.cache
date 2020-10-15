@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "IdfhoDS/wWIoCGzyv8raYJYTTP9ygMRCTxVeosD8ZwUL39UsEfKuZGKUNJoJN9o1nZ0WHWNDpJ2ikZMzLCBv4g==",
+  "success": true,
+  "projectFilePath": "C:\\TestesDev\\PdfSharp\\PdfSharp\\PdfSharp\\PdfSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\pdfsharpcore\\1.2.6\\pdfsharpcore.1.2.6.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta0013\\sixlabors.fonts.1.0.0-beta0013.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\sixlabors.imagesharp\\1.0.0\\sixlabors.imagesharp.1.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.0\\system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
